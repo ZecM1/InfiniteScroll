@@ -1,5 +1,7 @@
 # JAVASCRIPT Project - Infinite Scroll
 
+## Description
+
 The "Infinite Scroll" website is a dynamic platform that showcases images fetched from the Unsplash API, allowing users to scroll through an endless collection of images.
 
 ## Key features and technologies used in the development of the Quote Generator include:
