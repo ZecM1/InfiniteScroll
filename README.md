@@ -1,4 +1,4 @@
-# Infinite Scroll
+# JAVASCRIPT Project - Infinite Scroll
 
 The "Infinite Scroll" website is a dynamic platform that showcases images fetched from the Unsplash API, allowing users to scroll through an endless collection of images.
 
