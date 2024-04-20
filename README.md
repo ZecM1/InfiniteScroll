@@ -17,6 +17,10 @@ window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000;
 The expression checks if the sum of the viewport height and the scroll position is greater than or equal to the height of the `<body>` element minus 1000 pixels.
 If this condition is true, it means the user has scrolled to a point where the bottom of the viewport is within 1000 pixels of the bottom of the page.
 
+### Dynamic Quote Fetching:
+
+Utilizes the await fetch method to retrieve quotes from the Unsplash API providing new images and new experiences on every website load and nearly every scroll.
+
 ### Performance Optimization:
 
 Incorporates a mechanism to check if images are loaded and limits the number of images loaded at a time.
