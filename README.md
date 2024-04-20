@@ -29,3 +29,15 @@ This approach is particularly beneficial for devices with slower internet connec
 ### Responsive Design:
 
 Employs CSS media queries to ensure the website is optimized for both tablets and mobile phones by reducing the font size and margins around the images for a better mobile user experience.
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+- Clone the repository to your local machine.
+- Navigate to the project directory.
+- Open the index.html file in your preferred web browser.
+
+## Credits
+
+API: Unsplash Image API
